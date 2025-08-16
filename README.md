@@ -1,16 +1,18 @@
 <h1 align="center">👋 Hey, I'm Muhammad Bilal Saleem Malik</h1>
-<h3 align="center">AI Security Engineer | Cybersecurity Researcher | Bug Bounty Hunter</h3>
+<h3 align="center">AI Security Engineer | Penetration Tester | Cyber Security Analyst | Bug Bounty Hunter | Researcher</h3>
 
 <p align="center">
   <a href="https://0xbilalsaleem.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:muhammadbilalsaleemmalik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bilalsaleem01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=TFoks5wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Bilal-Saleem-11"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🛡️ AI Security Engineer combining **AI/ML + Cybersecurity** for intelligent defense.  
+- 🛡️ AI Security Engineer + **Penetration Tester & Cybersecurity Analyst**.  
 - 🎯 Passionate about **Phishing Detection, Malware Classification, Privacy-Preserving AI**.  
 - 🏆 **Top 4 Global** (BSides Fargo CTF), **Top 5 Pakistan** (Black Hat MEA).  
 - 📚 Published 7+ papers in **IEEE, MDPI, Springer** on AI & Cybersecurity.  
@@ -101,6 +103,8 @@
 <p align="center">
   <a href="https://0xbilalsaleem.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bilalsaleem01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=TFoks5wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+  <a href="https://www.researchgate.net/profile/Bilal-Saleem-11"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
   <a href="mailto:muhammadbilalsaleemmalik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
