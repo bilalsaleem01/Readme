@@ -20,23 +20,39 @@
 
 ### 🛠️ Tech Arsenal  
 
-#### 🔐 Security  
+#### 🔐 Security Tools  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7438?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0058A9?style=for-the-badge&logo=wazuh&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logo=suricata&logoColor=white)
 
-#### 💻 Programming  
+#### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 
-#### 🤖 AI & Data Science  
+#### 🤖 AI / Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1D1D1D?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -59,6 +75,7 @@
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-FF6600?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF%20Player-1E90FF?style=for-the-badge&logo=flag&logoColor=white)
 
 ---
 
