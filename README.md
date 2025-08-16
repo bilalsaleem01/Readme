@@ -15,7 +15,7 @@
 - 🛡️ AI Security Engineer + **Penetration Tester & Cybersecurity Analyst**.  
 - 🎯 Passionate about **Phishing Detection, Malware Classification, Privacy-Preserving AI**.  
 - 🏆 **Top 4 Global** (BSides Fargo CTF), **Top 5 Pakistan** (Black Hat MEA).  
-- 📚 Published 7+ papers in **IEEE, MDPI, Springer** on AI & Cybersecurity.  
+- 📚 Published 9+ papers in **IEEE, MDPI, Springer** on AI & Cybersecurity.  
 - 🌱 Exploring **Adversarial ML** & **Autonomous AI Agents**.  
 
 ---
@@ -30,8 +30,7 @@
 ![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0058A9?style=for-the-badge&logo=wazuh&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logo=suricata&logoColor=white)
+
 ![ModSecurity](https://img.shields.io/badge/ModSecurity-003366?style=for-the-badge&logo=owasp&logoColor=white)
 
 #### 💻 Programming Languages  
@@ -54,8 +53,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1D1D1D?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 #### 🗄️ Databases & Monitoring  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
