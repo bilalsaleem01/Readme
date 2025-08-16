@@ -59,12 +59,12 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xbilalsaleem&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xbilalsaleem&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalsaleem01&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsaleem01&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xbilalsaleem&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsaleem01&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ### 🐍 Contribution Graph Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xbilalsaleem/0xbilalsaleem/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/bilalsaleem01/bilalsaleem01/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
